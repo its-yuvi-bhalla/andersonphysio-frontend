@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css or main global CSS file */
+body {
+  @apply font-nunito;
+}
