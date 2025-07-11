@@ -66,7 +66,7 @@ export default function Massage() {
         <div className="bg-white border border-gray-200 rounded-lg shadow p-6 text-center">
           <h2 className="text-xl font-semibold mb-2">Book Your Massage Today</h2>
           <p className="mb-3">Take the first step in your wellness journey.</p>
-          <p className="text-blue-600 font-medium">📞 Call (825) 415-5403 or 📧 Email info@andersonphysiotherapy.ca</p>
+          <p className="text-blue-600 font-medium">📞 Call (825) 415-5406 or 📧 Email info@andersonphysiotherapy.ca</p>
         </div>
       </div>
     </section>

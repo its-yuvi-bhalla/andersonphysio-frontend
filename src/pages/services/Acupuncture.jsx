@@ -25,7 +25,7 @@ export default function Acupuncture() {
           <h2 className="text-xl font-semibold mb-2">Ready to Feel Better?</h2>
           <p className="mb-4">Book your acupuncture or dry needling session with our licensed physiotherapists today.</p>
           <p className="font-medium text-blue-600">
-            📞 Call us at (825) 415-5403 or 📧 email info@andersonphysiotherapy.ca
+            📞 Call us at (825) 415-5406 or 📧 email info@andersonphysiotherapy.ca
           </p>
         </div>
       </div>

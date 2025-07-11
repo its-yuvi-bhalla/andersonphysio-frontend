@@ -104,7 +104,7 @@ export default function VinciGomez() {
         <div className="bg-white border border-gray-300 rounded-lg shadow p-6 text-center mt-7 max-w-4xl">
           <h2 className="text-xl font-semibold mb-2">Book Your Assessment with Vinci Gomez Today</h2>
           <p className="font-medium text-blue-600">
-            📞 Call (825) 415-5403 or 📧 email info@andersonphysiotherapy.ca
+            📞 Call (825) 415-5406 or 📧 email info@andersonphysiotherapy.ca
           </p>
         </div>
       </div>

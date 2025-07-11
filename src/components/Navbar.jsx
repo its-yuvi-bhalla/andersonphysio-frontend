@@ -41,10 +41,10 @@ export default function Navbar() {
 
         {/* Phone Number */}
         <a
-          href="tel:8254155403"
+          href="tel:8254155406"
           className="hidden md:inline-block text-sm font-semibold text-gray-700 hover:text-blue-700"
         >
-          (825) 415-5403
+          (825) 415-5406
         </a>
         <button
           onClick={() => setMobileOpen(!mobileOpen)}
@@ -71,10 +71,10 @@ export default function Navbar() {
               Contact
             </NavLink>
             <a
-              href="tel:8254155403"
+              href="tel:8254155406"
               className="mt-2 text-sm font-medium text-gray-800 hover:text-blue-700"
             >
-              📞 (825) 415-5403
+              📞 (825) 415-5406
             </a>
           </nav>
         </div>

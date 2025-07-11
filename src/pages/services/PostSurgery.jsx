@@ -89,7 +89,7 @@ export default function PostSurgery() {
         </p>
 
         <p className="mt-6 text-blue-600 font-medium">
-          📞 Call us at (825) 415-5403<br />
+          📞 Call us at (825) 415-5406<br />
           📅 Or Book Online Now for your post-surgery rehab consultation in Calgary.
         </p>
       </div>

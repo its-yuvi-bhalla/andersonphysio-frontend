@@ -23,10 +23,10 @@ export default function Footer() {
             info@andersonphysiotherapy.ca
           </a>
           <a
-            href="tel:8254155403"
+            href="tel:8254155406"
             className="hidden sm:inline-block text-sm font-semibold text-white hover:text-white/70"
           >
-            (825) 415-5403
+            (825) 415-5406
           </a>
         </div>
 

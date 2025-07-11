@@ -66,7 +66,7 @@ export default function PelvicHealth() {
             <h2 className="text-xl font-semibold mb-2">Book Your Appointment Today</h2>
             <p className="mb-4">Begin your journey to better pelvic health in a safe and supportive space.</p>
             <p className="font-medium text-blue-600">
-              📞 Call (825) 415-5403 or 📧 email info@andersonphysiotherapy.ca
+              📞 Call (825) 415-5406 or 📧 email info@andersonphysiotherapy.ca
             </p>
           </div>
         </div>

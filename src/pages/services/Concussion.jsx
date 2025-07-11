@@ -107,7 +107,7 @@ export default function Concussion() {
             <h2 className="text-xl font-semibold mb-2">Book Your Assessment Today</h2>
             <p className="mb-4">Take the first step in your vestibular or concussion recovery journey.</p>
             <p className="font-medium text-blue-600">
-              📞 Call (825) 415-5403 or 📧 email info@andersonphysiotherapy.ca
+              📞 Call (825) 415-5406 or 📧 email info@andersonphysiotherapy.ca
             </p>
           </div>
         </div>

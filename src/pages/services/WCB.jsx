@@ -81,7 +81,7 @@ export default function WCB() {
         </p>
 
         <p className="mt-6 text-blue-600 font-medium">
-          📞 Call (825) 415-5403 or visit our Calgary clinic to schedule your WCB-approved physiotherapy assessment today.
+          📞 Call (825) 415-5406 or visit our Calgary clinic to schedule your WCB-approved physiotherapy assessment today.
         </p>
       </div>
     </section>
