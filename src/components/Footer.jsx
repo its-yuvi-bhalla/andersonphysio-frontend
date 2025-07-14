@@ -17,7 +17,7 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold text-white mb-3">Office</h4>
           <p>Canada</p>
-          <p>Unit 29, 11440 Braeside Dr SW,</p>
+          <p>11440 Braeside Dr SW Unit 29,</p>
           <p>Calgary, AB, T2W 3N4</p>
           <a href="mailto:info@andersonphysiotherapy.ca" className="block mt-2 hover:underline text-white/90">
             info@andersonphysiotherapy.ca

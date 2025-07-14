@@ -51,7 +51,7 @@ const services = [
   {
     title: "Sports Injury Rehabilitation",
     category: "Sports Injury",
-    img: "./sports-injury.jpg",
+    img: "https://shawneephysiotherapy.ca/wp-content/uploads/2024/07/WhatsApp-Image-2025-05-30-at-2.04.54-PM.jpeg",
   },
 ]
 

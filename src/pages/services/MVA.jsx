@@ -9,7 +9,7 @@ export default function MVA() {
         <img
           src="../../mva.jpg"
           alt="Motor Vehicle Accident Rehab"
-          className="w-full h-[380px] object-cover rounded-xl shadow-lg mb-10"
+          className="w-full h-[590px] object-cover rounded-xl shadow-lg mb-10"
         />
 
         {/* Title */}
