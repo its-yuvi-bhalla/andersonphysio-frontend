@@ -5,8 +5,8 @@ export default function Services() {
   return (
     <>
       <ServiceCarousel />
-      <section className="bg-gray-50 py-16 px-4">
-  <div className="max-w-5xl mx-auto text-center space-y-6">
+      <section className="bg-white py-16 px-4 shadow-2xl">
+    <div className="max-w-5xl mx-auto text-center space-y-6">
     <h2 className="text-4xl font-bold text-gray-800">Exceptional Care from Trusted Professionals</h2>
     <p className="text-lg text-gray-600">
       At Anderson Physiotherapy, we take pride in delivering a holistic, patient-centered approach to rehabilitation and wellness.

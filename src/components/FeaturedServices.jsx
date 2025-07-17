@@ -62,7 +62,7 @@ const services = [
 
 export default function FeaturedServices(opts) {
   return (
-    <section className="bg-white py-20 px-4 shadow-xl">
+    <section className="bg-white py-20 px-4 shadow-4xl">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-12">{opts.text}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
@@ -70,7 +70,7 @@ export default function FeaturedServices(opts) {
             <a
               key={index}
               href={service.href}
-              className="bg-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 text-center space-y-4 block"
+              className="bg-gray-100 p-6 rounded-xl shadow-sm hover:shadow-xl transition-all duration-300 text-center space-y-4 block"
             >
               <div className="flex justify-center">{service.icon}</div>
               <h3 className="text-lg font-semibold">{service.title}</h3>

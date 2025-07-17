@@ -76,7 +76,7 @@ export default function PostSurgery() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">Why Choose Anderson Physiotherapy in Calgary?</h2>
         <ul className="list-disc pl-6 space-y-2 mb-6">
           <li>✅ Experienced Therapists – Our registered physiotherapists, including Vinci Gomez, specialize in post-op care</li>
-          <li>✅ Convenient Location – Located at 88 Anderson Street SW, Suite 2155, Calgary, Alberta</li>
+          <li>✅ Convenient Location – Located at 11440 Braeside Dr SW Unit 29, Calgary, Alberta</li>
           <li>✅ One-on-One Care – Individualized attention and customized treatment plans</li>
           <li>✅ Modern Techniques – Evidence-based therapy, manual treatments, and advanced modalities</li>
         </ul>

@@ -57,7 +57,7 @@ const services = [
 
 export default function ServiceCarousel() {
   const scrollRef = useRef()
-  const navigate  = useNavigate()                // ⬅️ add
+  const navigate  = useNavigate()
 
   const scroll = dir => {
     const { current } = scrollRef

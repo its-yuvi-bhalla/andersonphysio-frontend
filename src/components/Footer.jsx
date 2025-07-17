@@ -59,14 +59,6 @@ export default function Footer() {
               >
                 <Facebook size={20} />
               </a>
-              <a
-                href="https://instagram.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition"
-              >
-                <Instagram size={20} />
-              </a>
             </div>
           </div>
         </div>

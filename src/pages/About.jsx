@@ -9,7 +9,7 @@ export default function About() {
   return (
     <>
       <AboutIntroSection />
-      <FeaturedServices text='FeaturedServices'/>
+      <FeaturedServices text='Featured Services'/>
       <DirectBillingPartners/>
       <OurTeamSection/>
       <ContactForm/>

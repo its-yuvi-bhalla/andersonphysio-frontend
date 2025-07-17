@@ -4,47 +4,41 @@ export default function Concussion() {
   return (
     <section className="min-h-screen py-20 px-6 bg-[#f9f9f9] text-gray-800">
       <div className="max-w-6xl mx-auto space-y-12">
-        {/* Top Image */}
-        <img
-          src="../../concussion.jpg"
-          alt="Vestibular Rehabilitation"
-          className="w-full h-auto object-cover rounded-lg shadow mb-10"
-        />
-
         {/* Vestibular Section */}
-        <div>
-          <h1 className="text-4xl font-bold mb-6">Vestibular Rehabilitation</h1>
-          <div className="flex flex-col md:flex-row gap-6">
-            {/* Word-wrapped image on the right */}
-            <img
-              src="https://shawneephysiotherapy.ca/wp-content/uploads/2024/07/WhatsApp-Image-2025-05-30-at-2.23.19-PM.jpeg"
-              alt="Vestibular Therapy"
-              className="w-full md:w-[45%] h-auto object-cover rounded-md shadow mb-4 md:mb-0 md:ml-6 float-right"
-            />
-            {/* Text wraps left side */}
-            <div className="flex-1">
-  <p className="mb-4">
-    At <strong>Anderson Physiotherapy Clinic</strong>, our specialized vestibular physiotherapists are highly trained in diagnosing and treating a variety of balance and dizziness-related disorders, including vertigo. We understand how disorienting and disruptive these symptoms can be to your daily life, and we’re here to provide compassionate, results-driven care.
-  </p>
-  <p className="mb-4">
-    Vertigo is one of the most common vestibular disorders and can feel like the room is spinning, rocking, or tilting—even while you're completely still. These episodes may come and go, or persist for hours or days, depending on the cause. Vertigo can be accompanied by nausea, vomiting, sweating, blurred vision, and difficulty with coordination or walking.
-  </p>
-  <p className="mb-4">
-    Often, vertigo is a symptom of an underlying issue with the inner ear or the parts of the brain that control balance and spatial orientation. Conditions such as BPPV (Benign Paroxysmal Positional Vertigo), vestibular neuritis, and labyrinthitis are frequently treated using physiotherapy.
-  </p>
-  <p className="mb-4">
-    Vestibular rehabilitation is a specialized form of physiotherapy that involves custom-tailored exercises designed to retrain the brain to compensate for inner ear dysfunction. These exercises help improve gaze stability, posture, and balance while reducing symptoms like dizziness, unsteadiness, and motion sensitivity.
-  </p>
-  <p className="mb-4">
-    With the right therapy plan, many patients experience a significant reduction in symptoms and regain their confidence in walking, working, and participating in day-to-day activities. Our team at Anderson is committed to guiding you every step of the way toward a safer, steadier life.
-  </p>
-  <p className="mb-4">
-    Vestibular rehabilitation physiotherapy involves tailored exercises that retrain the brain to compensate for inner ear dysfunction, improving balance, reducing fall risk, and enhancing overall stability.
-</p>
+<div>
+  <h1 className="text-4xl font-bold mb-6">Vestibular Rehabilitation</h1>
+  <div className="flex flex-col md:flex-row gap-6 items-start">
+    {/* Image on the left */}
+    <img
+      src="https://shawneephysiotherapy.ca/wp-content/uploads/2024/07/WhatsApp-Image-2025-05-30-at-2.23.19-PM.jpeg"
+      alt="Vestibular Rehabilitation"
+      className="w-full md:w-[45%] h-auto object-cover rounded-md shadow"
+    />
+    
+    {/* Text on the right */}
+    <div className="flex-1 text-gray-800">
+      <p className="mb-4">
+        At <strong>Anderson Physiotherapy Clinic</strong>, our specialized vestibular physiotherapists are highly trained in diagnosing and treating a variety of balance and dizziness-related disorders, including vertigo. We understand how disorienting and disruptive these symptoms can be to your daily life, and we’re here to provide compassionate, results-driven care.
+      </p>
+      <p className="mb-4">
+        Vertigo is one of the most common vestibular disorders and can feel like the room is spinning, rocking, or tilting—even while you're completely still. These episodes may come and go, or persist for hours or days, depending on the cause. Vertigo can be accompanied by nausea, vomiting, sweating, blurred vision, and difficulty with coordination or walking.
+      </p>
+      <p className="mb-4">
+        Often, vertigo is a symptom of an underlying issue with the inner ear or the parts of the brain that control balance and spatial orientation. Conditions such as BPPV (Benign Paroxysmal Positional Vertigo), vestibular neuritis, and labyrinthitis are frequently treated using physiotherapy.
+      </p>
+      <p className="mb-4">
+        Vestibular rehabilitation is a specialized form of physiotherapy that involves custom-tailored exercises designed to retrain the brain to compensate for inner ear dysfunction. These exercises help improve gaze stability, posture, and balance while reducing symptoms like dizziness, unsteadiness, and motion sensitivity.
+      </p>
+      <p className="mb-4">
+        With the right therapy plan, many patients experience a significant reduction in symptoms and regain their confidence in walking, working, and participating in day-to-day activities. Our team at Anderson is committed to guiding you every step of the way toward a safer, steadier life.
+      </p>
+      <p className="mb-4">
+        Vestibular rehabilitation physiotherapy involves tailored exercises that retrain the brain to compensate for inner ear dysfunction, improving balance, reducing fall risk, and enhancing overall stability.
+      </p>
+    </div>
   </div>
+</div>
 
-          </div>
-        </div>
 
         {/* Concussion Section */}
         <div>
