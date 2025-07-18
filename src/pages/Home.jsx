@@ -21,7 +21,7 @@ export default function Home() {
                 Evidence-based physiotherapy in a welcoming clinic environment.
               </p>
               <Link
-                to="/contact"
+                to="https://andersonphysiotherapy.janeapp.com/"
                 className="mt-6 inline-block bg-[#dce2f9] text-black px-6 py-3 rounded shadow hover:bg-blue-800 hover:text-white transition"
               >
                 Book an appointment
