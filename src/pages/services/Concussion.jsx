@@ -84,7 +84,7 @@ export default function Concussion() {
 
           <h3 className="text-2xl font-semibold mt-6 mb-2">Why Choose Our Concussion Clinic?</h3>
           <ul className="list-disc pl-6 mb-6 space-y-1">
-            <li>Certified experts in concussion and post-concussion care</li>
+            <li>Certified professionals in concussion and post-concussion care</li>
             <li>Comprehensive, holistic recovery plans</li>
             <li>Physical, cognitive, and emotional support</li>
             <li>Strong emphasis on education and safe reintegration to life</li>

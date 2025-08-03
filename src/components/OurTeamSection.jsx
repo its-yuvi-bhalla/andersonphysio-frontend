@@ -17,7 +17,7 @@ export default function OurTeamSection() {
   return (
     <section className="bg-white py-20 px-4 text-center">
       <div className="max-w-6xl mx-auto">
-        <p className="uppercase text-sm tracking-widest text-gray-500 mb-2">Best Experts</p>
+        <p className="uppercase text-sm tracking-widest text-gray-500 mb-2">Trusted Experts</p>
         <h2 className="text-3xl md:text-4xl font-semibold mb-12">Our Team</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
