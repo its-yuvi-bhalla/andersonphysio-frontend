@@ -44,8 +44,8 @@ export default function Footer() {
         {/* Hours & Social */}
         <div>
           <h4 className="font-semibold text-white mb-3">Working hours</h4>
-          <p>Saturday: 9 AM – 4 PM</p>
-          <p>Mon–Fri: 9 AM – 6 PM</p>
+          <p>Saturday: 9:30 AM – 3:30 PM</p>
+          <p>Mon–Fri: 9 AM – 7 PM</p>
           <p>Sunday: closed</p>
 
           <div className="mt-4">
