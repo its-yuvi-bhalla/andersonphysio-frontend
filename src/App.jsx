@@ -23,6 +23,7 @@ import SportsInjury from './pages/services/SportsInjury'
 import ScrollToTop from './components/utils/ScrollToTop'
 import VinciGomez from './pages/about/VinciGomez'
 import CandiceFarren from './pages/about/CandiceFarren'
+import Orthotics from './pages/services/Orthotics'
 
 export default function App() {
   return (
@@ -48,6 +49,8 @@ export default function App() {
         <Route path="/services/massage-therapy" element={<Massage />} />
         <Route path="/services/neuro" element={<Neuro />} />
         <Route path="/services/sports-injury" element={<SportsInjury />} />
+        <Route path="/services/orthotics" element={<Orthotics />} />
+        
 
         {/* team members */}
         <Route path="/about/vinci-gomez" element={<VinciGomez />} />

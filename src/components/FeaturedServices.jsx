@@ -5,8 +5,8 @@ import {
   Syringe,
   Activity,
   Hospital,
-  Accessibility,
-  Users2,
+  Footprints,
+  Car
 } from 'lucide-react'
 
 const services = [
@@ -35,10 +35,10 @@ const services = [
     href: '/services/acupuncture',
   },
   {
-    icon: <Accessibility className="w-8 h-8 text-[#4e9763]" />,
-    title: 'Fall Prevention & Balance Program',
-    desc: 'Designed to enhance stability, reduce fall risk, and improve confidence through targeted exercises.',
-    href: '/services/concussion-rehabilitation',
+    icon: <Footprints className="w-8 h-8 text-[#4e9763]" />,
+    title: 'Custom Orthotics',
+    desc: 'Individually designed foot orthotics to improve posture, reduce pain, and support mobility for everyday comfort.',
+    href: '/services/orthotics',
   },
   {
     icon: <Hospital className="w-8 h-8 text-[#4e9763]" />,
@@ -47,10 +47,10 @@ const services = [
     href: '/services/post-surgery',
   },
   {
-    icon: <Users2 className="w-8 h-8 text-[#4e9763]" />,
-    title: 'Male and Female Pelvic Health',
-    desc: 'Specialized care for pelvic floor dysfunctions, incontinence, and postpartum recovery for all genders.',
-    href: '/services/pelvic-health',
+    icon: <Car className="w-8 h-8 text-[#4e9763]" />,
+    title: 'Motor Vehicle Accident (MVA) Rehabilitation',
+    desc: 'Comprehensive recovery programs for injuries caused by car accidents, focusing on pain relief, mobility restoration, and long-term wellness.',
+    href: '/services/mva',
   },
   {
     icon: <Activity className="w-8 h-8 text-[#4e9763]" />,
