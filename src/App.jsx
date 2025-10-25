@@ -26,6 +26,7 @@ import CandiceFarren from './pages/about/CandiceFarren'
 import Orthotics from './pages/services/Orthotics'
 import Ria from './pages/about/Ria'
 import Candace from './pages/about/Candace'
+import NotFound from './pages/notFound'
 
 export default function App() {
   return (
@@ -59,6 +60,7 @@ export default function App() {
         <Route path="/about/candice-farren" element={<CandiceFarren />} />
         <Route path="/about/ria-jasmine-de-leon" element={<Ria/>} />
         <Route path="/about/candace-dowhy" element={<Candace/>} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </BrowserRouter>
