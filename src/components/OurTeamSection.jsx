@@ -21,7 +21,7 @@ const teamMembers = [
     {
       name: 'Ria Jasmine De Leon',
       title: 'Physiotherapist',
-      image: '../../public/Ria.jpeg',
+      image: 'public/Ria.jpeg',
       href: "/about/Ria-jasmine-de-leon"
 
     },
