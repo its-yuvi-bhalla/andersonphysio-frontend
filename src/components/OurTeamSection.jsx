@@ -14,14 +14,14 @@ const teamMembers = [
   {
       name: 'Candace Dowhy',
       title: 'Massage Therapist',
-      image: 'public/Candace.jpeg',
+      image: 'Candace.jpeg',
       href: "/about/candace-dowhy"
 
     },
     {
       name: 'Ria Jasmine De Leon',
       title: 'Physiotherapist',
-      image: 'public/Ria.jpeg',
+      image: 'Ria.jpeg',
       href: "/about/Ria-jasmine-de-leon"
 
     },
