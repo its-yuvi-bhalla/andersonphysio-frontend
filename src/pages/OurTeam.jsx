@@ -10,7 +10,16 @@ export default function OurTeam() {
       title: 'Physiotherapist, BPT',
       image: 'https://shawneephysiotherapy.ca/wp-content/uploads/2024/08/image-5-570x696.jpg',
     },
-    // Add more members as needed
+    {
+      name: 'Candace Dowhy',
+      title: 'Massage Therapist',
+      image: 'https://shawneephysiotherapy.ca/wp-content/uploads/2024/08/image-5-570x696.jpg',
+    },
+    {
+      name: 'Ria Jasmine De Leon',
+      title: 'Physiotherapist',
+      image: 'https://shawneephysiotherapy.ca/wp-content/uploads/2024/08/image-5-570x696.jpg',
+    },
   ]
 
   return (

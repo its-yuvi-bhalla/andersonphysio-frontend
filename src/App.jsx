@@ -24,6 +24,8 @@ import ScrollToTop from './components/utils/ScrollToTop'
 import VinciGomez from './pages/about/VinciGomez'
 import CandiceFarren from './pages/about/CandiceFarren'
 import Orthotics from './pages/services/Orthotics'
+import Ria from './pages/about/Ria'
+import Candace from './pages/about/Candace'
 
 export default function App() {
   return (
@@ -55,6 +57,8 @@ export default function App() {
         {/* team members */}
         <Route path="/about/vinci-gomez" element={<VinciGomez />} />
         <Route path="/about/candice-farren" element={<CandiceFarren />} />
+        <Route path="/about/ria-jasmine-de-leon" element={<Ria/>} />
+        <Route path="/about/candace-dowhy" element={<Candace/>} />
       </Routes>
       <Footer />
     </BrowserRouter>
